@@ -1,0 +1,178 @@
+body {
+  padding: 30px;
+  overflow: scroll;
+}
+
+.block {
+  display: grid;
+  gap: 30px;
+}
+
+.wrapper {
+  border: 2px solid #0050ff;
+  border-radius: 30px;
+  padding: 15px;
+  margin-bottom: 50px;
+  min-width: 750px;
+  background: white;
+  max-height: 400px;
+  height: 400px;
+  width: 700px;
+  position: relative;
+}
+
+.container {
+  position: relative;
+}
+
+img {
+  height: 100%;
+  width: auto;
+}
+
+.task {
+  height: 100%;
+  width: 100%;
+}
+
+.item {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+  margin: 5px;
+  font-size: 55px;
+  color: white;
+  background-color: #0050ff;
+}
+
+h2 {
+  font-size: 35px;
+  color: #0050ff;
+  margin: 35px 0;
+  font-weight: 700;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.task1 .item {
+}
+
+.task2 .item {
+}
+
+.task3 .item {
+}
+
+.container4 {
+}
+
+.task4 {
+  width: 1000px;
+}
+.task4 .item {
+}
+
+.task5 .item1 {
+  background-color: red;
+}
+.task5 .item2 {
+}
+.task5 .item3 {
+  background-color: green;
+}
+
+.task6 .item {
+}
+
+.task7 .item {
+}
+
+.task8 .item1 {
+}
+.task8 .item2 {
+  height: 120px;
+}
+
+.task8 p {
+}
+
+.task9 .item1 {
+  height: 200px;
+}
+.task9 .item2 {
+}
+.task9 p {
+}
+
+.task10 .item1 {
+}
+.task10 .item2 {
+}
+.task10 p {
+}
+
+.task11 .img-item {
+  height: 100%;
+  width: 100%;
+}
+
+.task12 .img-item {
+  height: 100%;
+  width: 100%;
+}
+
+.task13 .img-item {
+  height: 100%;
+  width: 100%;
+}
+
+.task14 .img-item {
+  height: 100%;
+  width: 100%;
+}
+
+.task15 .img-item {
+  height: 100%;
+  width: 100%;
+  object-fit: none;
+}
+
+.task16 .img-item {
+  height: 100%;
+  width: 100%;
+  object-fit: none;
+}
+
+.task17 .img-item {
+  height: 100%;
+  width: 100%;
+  object-fit: none;
+}
+
+.task18 .img-item {
+  height: 100%;
+  width: 100%;
+  object-fit: none;
+}
+
+.task19 .img-item {
+  height: 100%;
+  width: 100%;
+  object-fit: none;
+}
+
+.task20 {
+}
+
+.task21 {
+}
+
+.task22 {
+}
+
+html {
+}
